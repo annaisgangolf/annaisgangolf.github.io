@@ -1,4 +1,4 @@
 name: Annais Gangolf
 markdown: kramdown
-gems:
+gems: 
   - jekyll-seo-tag
